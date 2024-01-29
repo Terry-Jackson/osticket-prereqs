@@ -198,7 +198,9 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   Restart the IIS server.
   
 <p>
-<img src="https://imgur.com/CJ3RUbG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/0271ca85-0ef0-4a4e-86b9-b38250278015)
+
 </p>
 <p>
   
