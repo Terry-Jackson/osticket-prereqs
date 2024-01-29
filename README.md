@@ -48,18 +48,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![tempsnip](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/adb74230-44fa-42fb-891e-7423d29f44c5)
+
 </p>
 <p>
 <p>
-<img src="https://imgur.com/Zf2jw07.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/d8bf4e4a-aa8a-46b8-9de9-7b0b7287bfc6)
 </p>
 <p>
   
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
 <p>
-<img src="https://imgur.com/fGXMpx4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
   
