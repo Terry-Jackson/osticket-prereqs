@@ -61,21 +61,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
-
-
-
-
 <p>
 
-
-
-
-
-</p>
-<p>
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/ab772589-7764-4736-a794-9eec1aa84986)
   
+  </p>
 <p>
-<img src="https://imgur.com/LBGkAw6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/ab8f7156-9bdf-4473-8b38-19253a3a4053)
+
 </p>
 <p>
   
@@ -85,12 +80,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 [X] Common HTTP Features
   
 <p>
-<img src="https://imgur.com/LQjw9le.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/8e08a8a7-d1e2-402e-b744-652b335a5c25)
+
 </p>
 <p>
   
 <p>
-<img src="https://imgur.com/pbPeHb1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/b3798235-8226-4202-8340-a01fd605f151)
+
 </p>
 <p>
   
@@ -100,7 +99,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   It should look something like this. 
   
 <p>
-<img src="https://imgur.com/eICujoq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/b7bdbc01-d878-4530-bb2b-57c2b625b21e)
+
 </p>
 <p>
   
