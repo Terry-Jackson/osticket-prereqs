@@ -61,7 +61,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
+
+
+
+
 <p>
+
+
+
 
 
 </p>
