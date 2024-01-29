@@ -115,7 +115,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 7.) Create a folder in the C drive called PHP.
   
-8.) From the Installation Files, download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x866.zip) and unzip the contents into C:\PHP
+8.) From the Installation Files, download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
   
   !! ATTENTION !!
 If this appears, choose to “Keep” the file:
@@ -141,14 +141,18 @@ Standard Configuration ->
   Make the new root password: Password1
   
 <p>
-<img src="https://imgur.com/KxcUy7C.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/c14971c7-5664-4374-aacc-01de46366537)
+
 </p>
 <p>
   
-  Execute the process on the next page.
+  Finish the process.
   
 <p>
-<img src="https://imgur.com/i7sn6hT.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/81578b2e-b2f4-455d-ad7f-75464d925194)
+
 </p>
 <p>
   
