@@ -160,7 +160,9 @@ Standard Configuration ->
   The program should look like this.
   
 <p>
-<img src="https://imgur.com/rgdZwmM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/32f1e878-2793-4ca6-97af-6c61870709e4)
+
 </p>
 <p>
   
@@ -168,14 +170,18 @@ Standard Configuration ->
   Click on PHP Manager
   
 <p>
-<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/314d7580-bbd8-4fcc-bbab-994349eac84d)
+
 </p>
 <p>
   
 Register new PHP version.
   
 <p>
-<img src="https://imgur.com/qdbn5zQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/6a76597d-df05-44dd-af59-2741f5b17073)
+
 </p>
 <p>
   
@@ -183,7 +189,9 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   Go to C Drive -> PHP -> click on php-cgi file.
   
 <p>
-<img src="https://imgur.com/oJZ0gp9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/e9e7dab3-8f5a-4a99-90e7-e7a2853ca5b3)
+
 </p>
 <p>
   
