@@ -215,14 +215,18 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   -On the right, click “Browse *:80”
   
 <p>
-<img src="https://imgur.com/Yw55d5b.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![caps4](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/cf119334-824e-4877-a192-cf5f4ca05132)
+
 </p>
 <p>
   
   Some extensions are not enabled on the osTicket browser.
   
 <p>
-<img src="https://imgur.com/eJIsGTn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/f41fffb3-9388-4b69-b923-48b975c51fe4)
+
 </p>
 <p>
   
@@ -232,12 +236,19 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   -Click "Enable or disable an extension"
   
 <p>
-<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/8f33700f-cf59-41dd-a6cc-6a437c8b836f)
+
 </p>
 <p>
   
 <p>
-<img src="https://imgur.com/uigyKjb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/94b1ef8e-66b3-4444-8b3e-18ad8dba63b3)
+
+
 </p>
 <p>
   
@@ -250,7 +261,9 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   3.) php_opcache.dll
   
 <p>
-<img src="https://imgur.com/cOem7Nb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/96cf13ea-be54-4136-9329-bbf10dda3f88)
+
 </p>
 <p>
   
