@@ -282,14 +282,18 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   Click Add
   
 <p>
-<img src="https://imgur.com/VPZvOdo.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/5d1ba32e-6a39-469b-8cea-2fc9305c3ec5)
+
 </p>
 <p>
   
 Select a principal
   
 <p>
-<img src="https://imgur.com/PoGk34d.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/505903b8-66bd-47b8-84fe-5d1291cd1d86)
+
 </p>
 <p>
   
@@ -297,21 +301,28 @@ Select a principal
  Type "Everyone" in the box.
   
 <p>
-<img src="https://imgur.com/F4H3ppM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/dba0b94f-8477-48df-b41f-045ca30a4c49)
+
+
 </p>
 <p>
   
   Make sure Full Control and all the other boxes are checked.
   
 <p>
-<img src="https://imgur.com/rbbGqwB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/10a1b061-543f-4ec5-a1a3-cc226a230a04)
+
 </p>
 <p>
   
   Click Apply and Ok.
   
 <p>
-<img src="https://imgur.com/saRO3y5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/2ed844d3-4ea0-4a74-99d6-10f524d8f957)
+
 </p>
 <p>
   
@@ -321,21 +332,27 @@ Select a principal
   We will want to download and install HeidiSQL from the Installation Files. 
   
 <p>
-<img src="https://imgur.com/i7a4gWC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/565a2dc8-0868-4c3c-aefb-0d35ca98a8f8)
+
 </p>
 <p>
   
   When the program is open we will create a new session in it.
   
 <p>
-<img src="https://imgur.com/g5M1i61.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/a8f54502-1362-4345-a1bf-34c5040b3bc3)
+
 </p>
 <p>
   
   We want to make sure the username is root and the password is Password1.
   
 <p>
-<img src="https://imgur.com/LEAZNOc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/af4b7832-853a-42e4-a965-0de340fd696f)
+
 </p>
 <p>
   
@@ -344,7 +361,9 @@ Select a principal
   We will now create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
   
 <p>
-<img src="https://imgur.com/0rG1AJm.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/53cbbb3f-ca92-413f-b36c-9568cdc15513)
+
 </p>
 <p>
   
@@ -355,19 +374,24 @@ Select a principal
   We then will want to set the permissions back to "Read" only in the ost-config.php file.
   
 <p>
-<img src="https://imgur.com/wFr0pkK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/b6dc5347-f70b-4702-8687-3c19074095fd)
 </p>
 <p>
   
 <p>
-<img src="https://imgur.com/jsJOPyn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/99b94e8d-6835-410b-b3fc-bcdf91692527)
+
 </p>
 <p>
   
   The last step after that is to login to osTicket on the browser.
   
 <p>
-<img src="https://imgur.com/uHVdDsx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Terry-Jackson/osticket-prereqs/assets/155121596/4922cddd-1cd7-4416-a872-2744c7fe7d5e)
+
 </p>
 <p>
   
